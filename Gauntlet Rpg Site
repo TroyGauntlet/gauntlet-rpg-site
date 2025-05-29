@@ -1,0 +1,228 @@
+<!-- FILE: index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Gauntlet RPG</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome to Gauntlet RPG</h2>
+      <p>An expansive, lore-rich action RPG where every choice sculpts the world.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About the World - Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>The World of Gauntlet</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>The world is ancient yet believes itself young and complete. Cultures thrive on independent ideals. Wealth is cultural, not material. Communication is done through simplified sign language, creating a uniquely immersive narrative experience.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: gameplay.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gameplay - Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Gameplay</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>Toggleable first-person, third-person, and top-down views. Deep melee combat, magic, and modular tech. Skill trees, gauntlet upgrades, unique companions. No main quest — your morals shape your path.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: media.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media - Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Media</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>Coming soon: Concept art, demo trailers, and world renders.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: blog.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dev Blog - Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Developer Blog</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>Follow development updates, milestones, and behind-the-scenes insights from the team.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Gauntlet RPG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact & Community</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">World</a>
+      <a href="gameplay.html">Gameplay</a>
+      <a href="media.html">Media</a>
+      <a href="blog.html">Dev Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>Want to follow the game or get in touch? Join our upcoming Discord, sign up for our newsletter, or email us!</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Gauntlet RPG</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: styles.css -->
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #1a1a1a;
+  color: #f0f0f0;
+}
+
+header {
+  background: #2e2e2e;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #ffd700;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #2e2e2e;
+  margin-top: 2em;
+}
+
+h1, h2 {
+  color: #ffd700;
+}
